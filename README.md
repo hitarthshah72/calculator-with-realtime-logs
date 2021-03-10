@@ -11,3 +11,4 @@ The app must be hosted and deployed to be publicly accessible to engineers at Se
 React.js, Node.js, and Heroku
 
 ## Check out the deployed app
+https://calculator-with-realtime-logs.herokuapp.com/
